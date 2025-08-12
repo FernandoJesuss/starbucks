@@ -49,6 +49,7 @@ body {
 
 .hamburger {
     display: flex;
+    left: 140px;
     flex-direction: column;
     cursor: pointer;
     padding: 8px;
@@ -391,6 +392,7 @@ button:hover {
 @media (min-width: 992px) {
     .hamburger {
         display: none;
+        
     }
 
     .nav-menu {
