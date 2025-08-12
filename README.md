@@ -17,9 +17,7 @@ O objetivo é simular a apresentação institucional da marca, permitindo a troc
 
 ## 🚀 Tecnologias Utilizadas
 
-- **HTML5** — Estrutura da página.
-- **CSS3** — Estilização, gradientes e layout responsivo.
-- **JavaScript (Vanilla)** — Interatividade e troca dinâmica de conteúdo.
+- **HTML5** | **CSS3** | **JavaScript
 - **Google Fonts** — Tipografia personalizada (*Poppins*).
 - **Design Responsivo** — Compatível com desktop, tablet e mobile.
 
@@ -54,3 +52,25 @@ O objetivo é simular a apresentação institucional da marca, permitindo a troc
 │   └── scripts.js       # Funções interativas
 ├── index.html           # Página principal
 └── README.md            # Documentação do projeto
+````
+---
+📜 Como Usar
+1️⃣ Clone o repositório
+````
+git clone https://github.com/seuusuario/starbucks-landing-page.git
+````
+---
+📌 Funções JavaScript
+trocaImagem(src) — Atualiza a imagem principal com a selecionada.
+
+trocaCor(cor) — Altera a cor ou gradiente do círculo de fundo.
+
+toggleMenu() — Abre/fecha o menu no mobile.
+
+📱 Layout Responsivo
+📌 Desktop — Menu fixo e imagem grande.
+📌 Tablet — Ajuste de proporção e menu adaptável.
+📌 Mobile — Hambúrguer menu para facilitar navegação.
+
+🖋 Autor
+Desenvolvido por Fernando Santos — inspirado no design oficial da marca Starbucks.
