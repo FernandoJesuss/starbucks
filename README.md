@@ -4,9 +4,6 @@ Landing page inspirada no **Starbucks**, desenvolvida com **HTML**, **CSS** e **
 O objetivo é simular a apresentação institucional da marca, permitindo a troca dinâmica de imagens e cores de produtos.
 
 ---
-
-
----
 ## 📸 Demonstração
 
 ### 🎥 Preview em GIF
