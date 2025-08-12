@@ -4,16 +4,25 @@ Landing page inspirada no **Starbucks**, desenvolvida com **HTML**, **CSS** e **
 O objetivo é simular a apresentação institucional da marca, permitindo a troca dinâmica de imagens e cores de produtos.
 
 ---
-[**Acesse o Site**](https://fernandojesuss.github.io/starbucks/)
+
 
 ---
 ## 📸 Demonstração
 
 ### 🎥 Preview em GIF
-![Starbucks Preview](https://github.com/FernandoJesuss/starbucks/blob/main/img/Starbucksgif.gif)
+<p align="center">
+  <a href="https://fernandojesuss.github.io/starbucks/"><b>Acesse o Site</b></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/FernandoJesuss/starbucks/blob/main/img/Starbucksgif.gif" width="800">
+</p>
 
 ### 🖼 Screenshot
-![Starbucks Screenshot](https://github.com/FernandoJesuss/starbucks/blob/main/img/mobile-site.png)
+<p align="center">
+  <img src="https://github.com/FernandoJesuss/starbucks/blob/main/img/mobile-site.png" width="300">
+</p>
+
 
 ---
 
