@@ -8,10 +8,10 @@ O objetivo é simular a apresentação institucional da marca, permitindo a troc
 ## 📸 Demonstração
 
 ### 🎥 Preview em GIF
-![Starbucks Preview](./img/preview.gif)
+![Starbucks Preview](https://github.com/FernandoJesuss/starbucks/blob/main/img/Starbucksgif.gif)
 
 ### 🖼 Screenshot
-![Starbucks Screenshot](./img/preview.png)
+![Starbucks Screenshot](https://github.com/FernandoJesuss/starbucks/blob/main/img/mobile-site.png)
 
 ---
 
