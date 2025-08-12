@@ -25,12 +25,12 @@ O objetivo é simular a apresentação institucional da marca, permitindo a troc
 
 ## 🎯 Funcionalidades
 ---
-````
+
 ✅ Menu de navegação com **hambúrguer menu** no mobile.  
 ✅ Alteração da **imagem principal** e **cor de fundo** ao clicar nas miniaturas.  
 ✅ Layout moderno com **gradientes** e animações suaves.  
 ✅ Estrutura simples e fácil de customizar.
-````
+
 ---
 
 ## 📂 Estrutura de Pastas
